@@ -264,7 +264,7 @@ class NDArrayTest(TestCase):
 
     def test_types_with_numpy_dtypes(self):
         self.assertIsInstance(np.array([42]), NDArray[Any, np.int_])
-        self.assertIsInstance(np.array([42.0]), NDArray[Any, np.float_])
+        self.assertIsInstance(np.array([42.0]), NDArray[Any, np.float64])
         self.assertIsInstance(np.array([np.uint8(42)]), NDArray[Any, np.uint8])
         self.assertIsInstance(np.array([True]), NDArray[Any, np.bool_])
 
