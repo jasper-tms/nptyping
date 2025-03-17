@@ -281,7 +281,7 @@ def _create_type_to_names_dict(
     # name.
     names_per_type: Dict[str, List[str]] = defaultdict(list)
     for field_match in re.findall(_REGEX_FIELD, structure_expression):
-        field_name_combination, field_type = field_match[0].split(_FIELD_TYPE_POINTER)
+        field_name_combination, field_type = field_match[0].split(_FIELD_TYPE_POINTER, 1)
         field_name_combination_match = re.match(
             _REGEX_FIELD_NAMES_COMBINATION, field_name_combination
         )
