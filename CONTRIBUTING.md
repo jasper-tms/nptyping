@@ -1,5 +1,5 @@
-<a href='https://https://pypi.org/project/nptyping/'>
-  <img src='https://github.com/ramonhagenaars/nptyping/raw/master/resources/logo.png' />
+<a href='https://pypi.org/project/np2typing/'>
+  <img src='https://github.com/jasper-tms/nptyping/raw/main/resources/logo.png' />
 </a> 
 
 # *Contributing*
@@ -15,10 +15,10 @@ contribution as smooth as possible.
 
 ## Bug reporting
 When reporting a bug, please first check if it has been reported already in the list of 
-[issues](https://github.com/ramonhagenaars/nptyping/issues). Also check the 
-[closed ones](https://github.com/ramonhagenaars/nptyping/issues?q=is%3Aissue+is%3Aclosed).
+[issues](https://github.com/jasper-tms/nptyping/issues). Also check the 
+[closed ones](https://github.com/jasper-tms/nptyping/issues?q=is%3Aissue+is%3Aclosed).
 
-If your bug was not specified earlier, please [open a new issue](https://github.com/ramonhagenaars/nptyping/issues/new).
+If your bug was not specified earlier, please [open a new issue](https://github.com/jasper-tms/nptyping/issues/new).
 When describing your bug, try to be as clear as possible. At least provide:
 
 * the Python version you used
@@ -29,17 +29,17 @@ If applicable and possible, provide a complete stacktrace of the error.
 
 ## Pull requests
 You are free to open pull requests: this is highly appreciated! To avoid any waste of valuable developer time, it is
-recommended to first [open a new issue](https://github.com/ramonhagenaars/nptyping/issues/new) describing the 
+recommended to first [open a new issue](https://github.com/jasper-tms/nptyping/issues/new) describing the 
 feature/fix that you propose. This is not mandatory though. 
 
 A pull request can be merged when:
-* all [checks](https://github.com/ramonhagenaars/nptyping/actions) are green
+* all [checks](https://github.com/jasper-tms/nptyping/actions) are green
 * the content is deemed an improvement
 * the code is deemed acceptable
 
 ## Development
 Prerequisites:
-* A Python version within the `nptyping` [supported range](https://github.com/ramonhagenaars/nptyping/blob/master/nptyping/package_info.py)
+* A Python version within the `nptyping` [supported range](https://github.com/jasper-tms/nptyping/blob/main/nptyping/package_info.py)
 * An IDE to your liking
 
 ### Step 1: clone this repository

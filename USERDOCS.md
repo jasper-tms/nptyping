@@ -1,5 +1,5 @@
 <a href='https://https://pypi.org/project/nptyping/'>
-  <img src='https://github.com/ramonhagenaars/nptyping/raw/master/resources/logo.png' />
+  <img src='https://github.com/jasper-tms/nptyping/raw/main/resources/logo.png' />
 </a> 
 
 # *User documentation*
@@ -37,10 +37,10 @@ The intended audience of this document, are Pythoneers using `numpy`, that want 
 secure with type hints.
 
 In this document, all features that `nptyping` has to offer can be found. If you think that something is missing or not
-clear enough, please check the [issue section](https://github.com/ramonhagenaars/nptyping/issues) to see if you can find
+clear enough, please check the [issue section](https://github.com/jasper-tms/nptyping/issues) to see if you can find
 your answer there. Don't forget to also check the 
-[closed issues](https://github.com/ramonhagenaars/nptyping/issues?q=is%3Aissue+is%3Aclosed). Otherwise, feel free to 
-raise your question [in a new issue](https://github.com/ramonhagenaars/nptyping/issues/new).
+[closed issues on the original nptyping repository](https://github.com/ramonhagenaars/nptyping/issues?q=is%3Aissue+is%3Aclosed). Otherwise, feel free to
+raise your question [in a new issue](https://github.com/jasper-tms/nptyping/issues/new).
 
 You will find a lot of code blocks in this document. If you wonder why they are written the way they are (e.g. with the 
 `>>>` and the `...`): all code blocks are tested using [doctest](https://docs.python.org/3/library/doctest.html).

@@ -21,12 +21,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
-__title__ = "nptyping"
-__version__ = "2.5.0"
+__title__ = "np2typing"
+__version__ = "2.6.1"
 __author__ = "Ramon Hagenaars"
 __author_email__ = "ramon.hagenaars@gmail.com"
 __description__ = "Type hints for NumPy."
-__url__ = "https://github.com/ramonhagenaars/nptyping"
+__url__ = "https://github.com/jasper-tms/nptyping"
 __license__ = "MIT"
 __python_versions__ = [
     "3.7",
@@ -34,4 +34,7 @@ __python_versions__ = [
     "3.9",
     "3.10",
     "3.11",
+    "3.12",
+    "3.13",
+    "3.14"
 ]
