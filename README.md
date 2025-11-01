@@ -1,6 +1,6 @@
 [![PyPI version](https://img.shields.io/pypi/pyversions/np2typing.svg)](https://img.shields.io/pypi/pyversions/np2typing.svg)
 [![Downloads](https://pepy.tech/badge/nptyping/month)](https://pepy.tech/project/nptyping)
-[![PyPI version](https://badge.fury.io/py/np2typing.svg)](https://badge.fury.io/py/nptyping)
+[![PyPI version](https://badge.fury.io/py/np2typing.svg)](https://badge.fury.io/py/np2typing)
 [![codecov](https://codecov.io/gh/ramonhagenaars/nptyping/branch/master/graph/badge.svg)](https://codecov.io/gh/ramonhagenaars/nptyping)
 [![Code style](https://img.shields.io/badge/code%20style-black-black)](https://img.shields.io/badge/code%20style-black-black)
 
@@ -16,7 +16,7 @@
 💡 *Extensive dynamic type checks for dtypes shapes and structures* <br/>
 🚀 *[Jump to the Quickstart](https://github.com/jasper-tms/nptyping/blob/main/USERDOCS.md#Quickstart)*
 
-[Ramon Hagenaars' original `nptyping` package](https://github.com/ramonhagenaars/nptyping) is available via `pip install nptyping`. This fork has been updated to work with NumPy version 2 and above, and is available via `pip install np2typing`. The vast majority of the code in this package remains unchanged from Ramon's original work.
+[Ramon Hagenaars' original `nptyping` package](https://github.com/ramonhagenaars/nptyping) is available via `pip install nptyping`. This fork has been updated to work with NumPy version 2 and above, and is available via `pip install np2typing` followed by `import nptyping` (_not_ `import np2typing`). The vast majority of the code in this package remains unchanged from Ramon's original work.
 
 Example of a hinted `numpy.ndarray`:
 

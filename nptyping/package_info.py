@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 __title__ = "np2typing"
-__version__ = "2.6.2"
+__version__ = "2.6.3"
 __author__ = "Ramon Hagenaars"
 __author_email__ = "ramon.hagenaars@gmail.com"
 __description__ = "Type hints for NumPy."
