@@ -1,4 +1,4 @@
-[![PyPI version](https://img.shields.io/pypi/pyversions/nptyping.svg)](https://img.shields.io/pypi/pyversions/nptyping.svg)
+[![PyPI version](https://img.shields.io/pypi/pyversions/np2typing.svg)](https://img.shields.io/pypi/pyversions/np2typing.svg)
 [![Downloads](https://pepy.tech/badge/nptyping/month)](https://pepy.tech/project/nptyping)
 [![PyPI version](https://badge.fury.io/py/np2typing.svg)](https://badge.fury.io/py/nptyping)
 [![codecov](https://codecov.io/gh/ramonhagenaars/nptyping/branch/master/graph/badge.svg)](https://codecov.io/gh/ramonhagenaars/nptyping)
